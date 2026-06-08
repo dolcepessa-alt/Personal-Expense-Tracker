@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# App runtime state (stores a user's email)
+.remember_me
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Editor / tooling
+.vscode/
+.idea/
+.claude/
